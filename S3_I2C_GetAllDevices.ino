@@ -1,5 +1,3 @@
-#include <Adafruit_Sensor.h>
-#include <Adafruit_BME280.h>
 #include <HardwareSerial.h>
 #include <Wire.h>
 
